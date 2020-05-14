@@ -1,7 +1,7 @@
 # PIL_Building_Contact_Sheet
 #### Using Python Imaging Library "PIL" to build better contact sheet
 
-<img src="output_image.png" alt="Output" width="400"/>
+<img src="output_image.png" alt="Output" width="800"/>
 
 you were shown how to make a contact sheet for digital photographers, and how you can take one image and create nine different variants based on the brightness of that image. you are going to change the colors of the image, creating variations based on a single photo. There are many complex ways to change a photograph using variations, such as changing a black and white image to either "cool" variants, which have light purple and blues in them, or "warm" variants, which have touches of yellow and may look sepia toned.
 
